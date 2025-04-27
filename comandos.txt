@@ -1,0 +1,32 @@
+Os comandos executados em ordem no Git Bash foram:
+
+mkdir curso-git-embarcatech-joaopontes (make directory) 
+
+cd curso-git-embarcatech-joaopontes (change directory)
+
+git init (git iniatlize)
+
+git config user.name
+
+git config user.email
+
+git add identifcacao.txt
+
+git commit -m "Adiciona a minha identificacao"	
+
+git remote add origin https://github.com/JoaoFerreiraPontes/curso-git-embarcatech-joaopontes
+
+git push -u origin main (git push -setupstream)
+
+ls -a (list -all)
+
+pwd (print working directory)
+
+cd ~ (change directory home)
+
+git status
+
+git commit -m "Adiciona o arquivo de comandos utilizados"
+
+git push origin main
+
